@@ -1,7 +1,13 @@
 # Report
 Repository of semester reports I co-authored during my bachelor and masters degree. A brief description of each report is provided below.
 
-## SPC 1_HSI.pdf
+## SPC3_CERN.pdf
+Signal Processing and Computing (Masters) 3rd Semester: Report documenting the first half of my internship at CERN. Focuses on time synchronization of data acquisition systems. 
+
+## SPC2_EIG.pdf
+Signal Processing and Computing (Masters) 2nd Semester: Report on the design and implementation of a digital hardware architecture for finding eigenvalues of symmetric matrices.
+
+## SPC1_HSI.pdf
 Signal Processing and Computing (Masters) 1st Semester: Paper regarding the synthesis of hyperspectral images
 
 ## EIT6_3DAudio.pdf
