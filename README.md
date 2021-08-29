@@ -1,6 +1,9 @@
 # Report
 Repository of semester reports I co-authored during my bachelor and masters degree. A brief description of each report is provided below.
 
+## SPC4_CERN.pdf
+Signal Processing and Computing (Masters) 4th Semester: Report documenting the second half of my internship at CERN. Focuses on time synchronization of data acquisition systems. 
+
 ## SPC3_CERN.pdf
 Signal Processing and Computing (Masters) 3rd Semester: Report documenting the first half of my internship at CERN. Focuses on time synchronization of data acquisition systems. 
 
